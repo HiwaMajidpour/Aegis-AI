@@ -91,6 +91,18 @@ The system shall:
 - Provide explainable AI responses
 - Store conversations securely
 
-## Context Diagram
+# System Context Diagram
 
-The graphical System Context Diagram will be created using Draw.io during the architecture phase.
+Diagram ID: ARCH-001
+
+Location:
+
+docs/diagrams/ARCH-001-System-Context.drawio
+
+Description
+
+The System Context Diagram illustrates the interaction between users, the Aegis AI platform, and external systems.
+
+External systems include AI models, document processing services, databases, and public space knowledge sources.
+
+The diagram represents the highest level of the software architecture and serves as the foundation for all subsequent architecture diagrams.
